@@ -4,7 +4,7 @@
 {
     "roll No" :1,
     "name" :"Aashi chaurasia",
-    "sub1" : 0,
+    "sub1" : 1,
     "sub2" : 0,
     "sub3" : 0,
     "sub4" : 0,
